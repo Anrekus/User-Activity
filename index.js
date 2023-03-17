@@ -30,4 +30,4 @@ client.on('ready', () => {
   console.log(client.user.tag + ' Ready!');
 });
 
-client.login('ODM4NjUzOTI2MjgxNzA3NTIw.GkjUYM.j_kBdwDR59GOXs5rKdxb_Q0cW-qlVTYxiZF0qc');
+client.login('user token');
